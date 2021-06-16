@@ -28,7 +28,7 @@ Solution in phone size devices will look like this----> ![](./screenshots/phone-
 ### Links
 
 - Solution URL: [click here to view file](index.html)
-- Live Site URL: [click here for live preview](https://your-live-site-url.com)
+- Live Site URL: [click here for live preview](https://ritikkashyap720.github.io/3-column/)
 
 ## My process
 
