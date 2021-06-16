@@ -20,7 +20,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-Solution in desktop size devices will look like this----> ![](./screenshots/desktopsize.png)
+Solution in desktop size devices will look like this----> ![](./screenshots/desktop-size.png)
 Solution in tablet/ipad size devices will look like this----> ![](./screenshots/ipad-size.png)
 Solution in phone size devices will look like this----> ![](./screenshots/phone-size.png)
 
